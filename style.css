@@ -1,6 +1,5 @@
 body {
     font-family: 'Lato', sans-serif;
-    ;
 }
 
 .contenedor {
@@ -14,6 +13,7 @@ body {
     background-size: cover;
     height: 100vh;
     min-height: 600px;
+    padding: 40px 40px;
 }
 
 .barra {
@@ -27,7 +27,7 @@ body {
     color: #ffffff;
     text-decoration: none;
     font-size: 18px;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 .navegacion a:hover {
